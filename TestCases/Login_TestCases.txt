@@ -1,0 +1,11 @@
+Test Case ID: TC_001
+title : Verify login with valid credentials
+Precondition: user is registered
+Steps:
+1. Open login page
+2. Enter valid username
+3. Enter valid password
+4. Click login
+
+Expected Result:
+User should be logged in successfully
